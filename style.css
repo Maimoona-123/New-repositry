@@ -1,0 +1,43 @@
+h1{
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+
+}
+.one{
+    text-transform: uppercase;
+}
+
+.two{
+    font-style: italic;
+    font-weight: 600;
+}
+
+h3{
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: large;
+}
+
+.three{
+    word-spacing: 60px;
+    text-align: justify;
+}
+
+.four{
+    width: 6bo00px;
+}
+body{
+    width: 1000px;
+    
+}
+
+.five{
+    width: 700px;
+}
+
+.six{
+    width: 600px;
+}
